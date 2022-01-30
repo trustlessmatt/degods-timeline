@@ -1,4 +1,4 @@
-import logo from "./degods.png";
+import logo from "./components/Assets/degods.png";
 import "./App.css";
 import EventsList from "./components/Events/EventsList";
 

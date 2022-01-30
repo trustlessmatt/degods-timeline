@@ -2,7 +2,7 @@
 import { useState } from "react";
 import { Chrono } from "react-chrono";
 import eventData from "./eventData";
-import DUST from "./DUST.jpg";
+import DUST from "../Assets/DUST.jpg";
 
 const EventsList = () => {
   // const [showDust, setShowDust] = useState(false);
