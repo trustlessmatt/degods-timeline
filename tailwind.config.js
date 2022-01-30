@@ -26,7 +26,8 @@ module.exports = {
     },
     extend: {
       colors: {
-        'degods-lite': '#ffece8'
+        'degods-lite': '#ffece8',
+        'degods-dust': '#e6e4d2'
       }
     },
   },
