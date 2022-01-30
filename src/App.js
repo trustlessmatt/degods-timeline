@@ -15,7 +15,7 @@ function App() {
         </p>
       </header>
       <body>
-          <EventsList />
+        <EventsList />
       </body>
       <footer className="py-8">
         <a
