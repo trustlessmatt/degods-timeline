@@ -1,15 +1,16 @@
-import logo from "./components/Assets/degods.png";
 import "./App.css";
+import Header from "./components/UI/Header";
 import EventsList from "./components/Events/EventsList";
 
 function App() {
   return (
     <div className="App">
+      <Header />
       <header className="App-header">
         <p className="py-5 text-3xl font-bold">
           The DeGods Experiment Timeline<br></br>
         </p>
-        <img src={logo} className="App-logo" alt="logo" />
+        {/* spinning icon was here */}
         <p className="py-2 text-sm">
           Understand our history to see into our future.
         </p>
