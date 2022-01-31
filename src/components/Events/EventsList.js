@@ -12,7 +12,7 @@ const EventsList = () => {
   // };
 
   return (
-    <div className="mx-auto max-w-screen-lg">
+    <div className="mx-auto max-w-screen-xl">
       <Chrono
         items={eventData}
         mode="VERTICAL_ALTERNATING"

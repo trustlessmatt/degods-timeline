@@ -1,5 +1,3 @@
-import frankIsTyping from '../Assets/frank_is_typing.png';
-
 const eventData = [
   {
     title: "March 2021",
@@ -19,8 +17,6 @@ const eventData = [
     cardTitle:
       "PAPERHAND BITCH TAX REVEALED IN FIRST TWEET & DISCORD ANNOUNCEMENT",
     url: "https://twitter.com/DeGodsNFT/status/1438671756001099781?s=20&t=oz97jzW2FurwoVooRUd5Eg",
-    cardSubtitle:
-      "In the heat of NFT summer, the DeGods plotted their reveal at the first sign of summer equinox.",
     cardDetailedText:
       'With its first announcements released on Twitter and Discord, Frank and the Degods Core Team opened the gates of Solympus to the DeGods community anxious to enter. One announcement in particular, the Paper Hand Bitch Tax (PHBT) sparked a chain-wide discussion and inspired projects across Solana to react and respond to this contreversial idea - a 33.3% tax on paper hands that sold below a specified floor price. The team had established themselves and the community as "habitual line-steppers" (RIP Charlie Murphy) prepared to question the status quo at every turn.',
     media: {
@@ -52,10 +48,24 @@ const eventData = [
     media: {
       type: "IMAGE",
       source: {
-        url: {frankIsTyping},
+        url: "https://pbs.twimg.com/media/FKZCuNiXEAc4z0o?format=png&name=small",
       },
     },
   },
+  {
+    title: "09/26/2021",
+    cardTitle: "AUSSIE EATS 100 NUGS ON LIVESTREAM AND BECOMES LEGEND",
+    url: "https://twitter.com/frankdegods/status/1442332223470850054?s=20&t=UVMnh-xgiD3MPUShBfKnCw",
+    cardDetailedText:
+      "For some reasons unknown to man or science, @aussienftguy talked about DeGods for an hour on Twitch while eating 100 lukewarm chicken nuggets. He had already cemented himself in the DeGods community as the guy who would go to lengths far greater than most to prove himself to the Core Team, and this was just icing on the cake (or sauce on the nugs? sorry) for all of us. This MFer became an instant classic and we love him to death.",
+      media: {
+        type: "IMAGE",
+        source: {
+          url: "https://pbs.twimg.com/media/FKZIAQDXsAITpiB?format=png&name=small",
+        },
+      },
+  },
+
 ];
 
 export default eventData;
