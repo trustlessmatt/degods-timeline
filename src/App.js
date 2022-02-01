@@ -1,19 +1,21 @@
 import "./App.css";
 import Header from "./components/UI/Header";
 import EventsList from "./components/Events/EventsList";
+import logo from "./components/Assets/degods.png";
 
 function App() {
   return (
     <div className="App">
       <Header />
       <header className="App-header">
+        <div className="flex justify-center">
+          <img src={logo} className="App-logo" alt="logo" />
+        </div>
         <p className="py-5 text-3xl font-bold">
           The DeGods Experiment Timeline<br></br>
         </p>
         {/* spinning icon was here */}
-        <p className="py-2 text-sm">
-          History of DeGods, as written by DeGods.
-        </p>
+        <p className="py-2 text-sm">History of DeGods, as written by DeGods.</p>
       </header>
       <body>
         <EventsList />
