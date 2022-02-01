@@ -3,7 +3,7 @@ import twitter from "../Assets/twitter.png";
 
 const Header = () => {
   return (
-    <div className="p-2">
+    <div className="p-5">
       {/* header left */}
       <div className="flex items-center px-2">
         {/* twitter */}

@@ -12,7 +12,7 @@ function App() {
         </p>
         {/* spinning icon was here */}
         <p className="py-2 text-sm">
-          Understand our history to see into our future.
+          History of DeGods, as written by DeGods.
         </p>
       </header>
       <body>
