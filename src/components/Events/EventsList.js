@@ -38,7 +38,7 @@ const EventsList = () => {
       
       <br></br>
       <div>...and now, let us begin the $DUST experiment.</div>
-      <img src={DUST} className="mx-auto py-1 max-w-xs md:max-w-md"></img>
+      <img src={DUST} className="mx-auto py-1 max-w-xs md:max-w-md" alt="DUST"></img>
       {/* )} */}
     </div>
   );

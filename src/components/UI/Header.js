@@ -11,19 +11,19 @@ const Header = () => {
         {/* twitter */}
         <div className="rounded-lg mx-2">
           <a href="http://www.twitter.com/degodsnft">
-            <img src={twitter} width={50}></img>
+            <img src={twitter} width={50} alt=""></img>
           </a>
         </div>
         {/* discord */}
         <div className="rounded-lg mx-2">
           <a href="http://www.discord.gg/degods">
-            <img src={discord} width={50}></img>
+            <img src={discord} width={50} alt=""></img>
           </a>
         </div>
         {/* magic eden */}
         <div className="rounded-lg mx-2 p-3">
           <a href="http://www.magiceden.io/marketplace/degods">
-            <img src={magiceden} width={45}></img>
+            <img src={magiceden} width={45} alt=""></img>
           </a>
         </div>
       </div>
