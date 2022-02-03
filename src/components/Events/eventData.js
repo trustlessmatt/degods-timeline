@@ -125,7 +125,7 @@ const eventData = [
     media: {
       type: "IMAGE",
       source: {
-        url: "#",
+        url: "https://media.giphy.com/media/l3q2zbskZp2j8wniE/giphy-downsized-large.gif",
       },
     },
   },
@@ -138,7 +138,7 @@ const eventData = [
     media: {
       type: "IMAGE",
       source: {
-        url: "#",
+        url: "https://media.giphy.com/media/11mwI67GLeMvgA/giphy.gif",
       },
     },
   },
@@ -151,7 +151,7 @@ const eventData = [
     media: {
       type: "IMAGE",
       source: {
-        url: "#",
+        url: "https://dc555.4shared.com/img/BlOlAlRaea/s24/17ebe06cdc0/Fake_solsea_sales?async&rand=0.6036794568690727",
       },
     },
   },
@@ -162,10 +162,12 @@ const eventData = [
     cardDetailedText:
       "The Marketplace launches and then immediately crashes. First, an issue with the RPC endpoints, whatever that means. Then, the sheer web traffic alone overloaded their servers. As people got in and began listing, others were constantly refreshing their pages and spamming the server with HTTP requests and... yeah you get the point. The team worked with GenesysGo to get their back end patched up so that volume could pick up, but during this time, people's listings got locked up on the site. This meant you put your DeGod into escrow with their Marketplace, but you couldn't get in again to delist if you wanted to. Eventually, there ended up being a few strong soldiers that were trapped in Marketplace Hell for a number of days, and the hashtag #FREEMANOJ started to pick up steam. They really do say that there is no such thing as bad publicity, and boy was this its own experiment in that. We laugh because we learn. By the 11th, DeGods had worked with Alpha Art to list the project with a functioning PHBT. Go AA! Trading began working as intended while the team worked to upgrade the Marketplace.",
     media: {
-      type: "IMAGE",
       source: {
-        url: "#",
+        url: "https://www.youtube.com/embed/VX5aogTXt78?start=171",
+        type: "mp4",
       },
+      type: "VIDEO",
+      name: "Saving Private Ryan Clip",
     },
   },
   {
@@ -190,7 +192,20 @@ const eventData = [
     media: {
       type: "IMAGE",
       source: {
-        url: "#",
+        url: "https://dc694.4shared.com/img/9zl8rtx-iq/s24/17ebe13c9f8/dexyz?async&rand=0.61043899775858",
+      },
+    },
+  },
+  {
+    title: "10/23/2021",
+    cardTitle: "MICKEY DEGODS - THE ORIGINAL DEGODS SUBCOMMUNITY",
+    url: "http://www.mickeydegods.com/",
+    cardDetailedText:
+      'The Solana service industry is taken by storm as Mickey Degods makes its presence known to the world on Twitter and Discord. Out of nowhere, Mickey Degods  holders flocked to the restaurant to smoke out the walk-in freezer.... burn that mfer down?!?! After an opening night of pure chaos that ended in kitchen fires, scorched glory holes, and a broken ice cream machine (FOREVER... or so it seemed), the team quickly rebuilt the franchise into the MEGA-SUB that stands today. With menu items minting and a roadmap to pursue, the Mickey Degods team presses on, providing some of the biggest degens in DeGods a place to earn a living serving their brethren delicious fries and other assorted...ahem... items 🌲💨. Mickey Degods.. theres truly no stronger FAMILY in the metaverse. "We\'re Burning It".',
+    media: {
+      type: "IMAGE",
+      source: {
+        url: "https://pbs.twimg.com/profile_banners/1453095547384983556/1643385025/1500x500",
       },
     },
   },
@@ -201,10 +216,12 @@ const eventData = [
     cardDetailedText:
       "Just when everything was starting to calm down and look in control, DeGods dropped the #1 remix of 2021 featuring Island Boys. The DeGods x Island Boys collab almost crashed Twitter. You either love Island Boys in which case it was an incredible BANGER or you hated Island Boys and you retweeted it like a really good hate fuck. Things get really weird in crypto, eh?",
     media: {
-      type: "IMAGE",
       source: {
-        url: "#",
+        url: "https://www.4shared.com/web/embed/file/7NrJ_mXziq",
+        type: "mp4",
       },
+      type: "VIDEO",
+      name: "Island Boys",
     },
   },
   {
@@ -213,16 +230,56 @@ const eventData = [
     url: "https://drive.google.com/file/d/1s8k7qIFXJRnHjVtKW-5cPoX680O5Z51-/view?usp=sharing",
     cardDetailedText:
       "I MEAN... what do you even say about this? At this point, the team had hired @aussienftguy on full time to manage the community and build on it with his balls of absolute titanium. This wasn't for a bounty, this wasn't for a whitelist (he is known for getting tattooed for a good WL), this was just about being the best in the game. This stunt picked up some more traction and recognition in the community. \"Damn people really do be jumping out of planes for this NFT eh?\"",
-      media: {
-        type: "IMAGE",
-        source: {
-          url: "https://pbs.twimg.com/media/FDzdbqxUcAgx7Yb?format=jpg&name=large",
-        },
+    media: {
+      type: "IMAGE",
+      source: {
+        url: "https://pbs.twimg.com/media/FDzdbqxUcAgx7Yb?format=jpg&name=large",
       },
+    },
+  },
+  {
+    title: "12/15/2021",
+    cardTitle: "DEPALACE OPENS ITS SHINY GATES",
+    url: "#",
+    cardDetailedText:
+      "",
+    media: {
+      type: "IMAGE",
+      source: {
+        url: "#",
+      },
+    },
+  },
+  {
+    title: "12/18/2021",
+    cardTitle: "FIRST DAO PROPOSAL",
+    url: "#",
+    cardDetailedText:
+      "",
+    media: {
+      type: "IMAGE",
+      source: {
+        url: "#",
+      },
+    },
+  },
+  {
+    title: "01/01/2022",
+    cardTitle: "ANNOUNCEMENT OF $DUST PROTOCOL",
+    url: "https://twitter.com/DeGodsNFT/status/1477367334150950912?s=20&t=itUHlkzLJ-fdYtEYYNSavQ",
+    cardDetailedText:
+      "From the beginning, the DeGod mission was to kill paper hands, but paper hands continued to be an epic foe. They kept listing over, and over, and over, and over... like someone bred the zombie army from World War Z with Marshawn Lynch... PHBT was defeated. But little did the paper hands know, Frank proved to be a special mix of Brad Pitt and Bill Belicheck, making the most epic of half time adjustments - $DUST...The sequal now begins, Return of the DeGods, 28-3 (insert meme). We rise from the ashes like the Phoenix and reclaim our spot among the blue chips.",
+    media: {
+      type: "IMAGE",
+      source: {
+        url: "https://pbs.twimg.com/media/FJI6IIPVEAEXMKy?format=jpg&name=medium",
+      },
+    },
   },
   {
     title: "01/31/2022",
-    cardTitle: "DEGODS STAKING GOES LIVE, LOCKING UP $5MM IN DEGENERATE JPEGS FOR SOME STARDUST",
+    cardTitle:
+      "DEGODS STAKING GOES LIVE, LOCKING UP $5MM IN DEGENERATE JPEGS FOR SOME STARDUST",
     url: "#",
     cardDetailedText:
       "DeGods staking for $DUST goes live and within 24 hours, 50% of the total supply of DeGods were staked. This amounts to more than $5 million TVL in 24 hours, probably nothing. People are chomping at the bit to trade their $DUST for a chance to mutate their DeGod into a DeadGod, and staking is the only way to get there at this point. That is, until the burning mechanic goes live. The best part? Frank surprised the community with fucking PHBT2: unstaking your DeGod will cost you 0.0333 SOL. The PHBT lives on!",

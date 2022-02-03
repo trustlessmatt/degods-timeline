@@ -15,7 +15,16 @@ function App() {
           The DeGods Experiment Timeline<br></br>
         </p>
         {/* spinning icon was here */}
-        <p className="py-2 text-sm">History of DeGods, as written by DeGods.</p>
+        <p className="py-2 text-sm italic xl:mx-96 md:mx-60 sm:mx-30">
+          Formed from dust of stars in the molten core of Mount Solympus, the
+          DeGods arose... In time, all shall burn; for we are dust and to $DUST
+          we shall return.
+        </p>
+        <p className="py-2 mx-10 text-sm xl:mx-96 md:mx-60 sm:mx-30">
+          Each event below contains a clickable link archiving a moment
+          in time either on Twitter or Discord, with a colorful
+          summary, written by @web3_degen, @kindafungible, and @thatbean.
+        </p>
       </header>
       <body>
         <EventsList />
