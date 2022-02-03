@@ -132,7 +132,7 @@ const eventData = [
   {
     title: "10/08/2021",
     cardTitle: '"THE MARKETPLACE WILL BE LIVE BEFORE THE END OF THE DAY"',
-    url: "https://discord.com/channels/886405884060786689/886405884060786692/896161557271154718",
+    url: "https://discord.com/channels/886405884060786689/886405884060786692/896163865895764028",
     cardDetailedText:
       'In the aftermath of the mint day chaos, those who did mint were now anxiously awaiting the custom DeGods marketplace to paperhand their blue chip NFT. Frank boldly stated that the "marketplace is coming before the end of the day". As things inevitably got delayed, the team decided that they would be sending SOL to random holders every hour until the site went live. All the while, fake DeGods NFTs were being sold to those of us with half a brain, and then those same people tried flipping them, getting hit with the PHBT and filling up the Incinerator wallet with fakes. Welp, they say the best projects had the shittiest launches, just look at Degenerate Ape Academy!',
     media: {
@@ -179,7 +179,7 @@ const eventData = [
     media: {
       type: "IMAGE",
       source: {
-        url: "#",
+        url: "https://pbs.twimg.com/media/E_cYfpFVEAY4t_k?format=jpg&name=4096x4096",
       },
     },
   },

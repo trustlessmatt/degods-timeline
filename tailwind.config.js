@@ -29,6 +29,9 @@ module.exports = {
         'degods-lite': '#ffece8',
         'degods-dust': '#e6e4d2',
         'degods-purp': '#6100FF'
+      },
+      width: {
+        '150' : '150px',
       }
     },
   },

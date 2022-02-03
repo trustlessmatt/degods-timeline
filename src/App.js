@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <header className="App-header">
+      <header className="my-5 mx-10 text-sm xl:mx-96 md:mx-60 sm:mx-30">
         <div className="flex justify-center">
           <img src={logo} className="App-logo" alt="logo" />
         </div>
@@ -15,15 +15,19 @@ function App() {
           The DeGods Experiment Timeline<br></br>
         </p>
         {/* spinning icon was here */}
-        <p className="py-2 text-sm italic xl:mx-96 md:mx-60 sm:mx-30">
-          Formed from dust of stars in the molten core of Mount Solympus, the
-          DeGods arose... In time, all shall burn; for we are dust and to $DUST
-          we shall return.
+        <p className="italic py-3">
+          Formed from the dust of stars in the molten core of Mount Solympus,
+          the DeGods arose... In time, all shall burn; for we are dust and to
+          $DUST we shall return.
         </p>
-        <p className="py-2 mx-10 text-sm xl:mx-96 md:mx-60 sm:mx-30">
-          Each event below contains a clickable link archiving a moment
-          in time either on Twitter or Discord, with a colorful
-          summary, written by @web3_degen, @kindafungible, and @thatbean.
+        <p className="">
+          Each event below contains a clickable link archiving a DeGods moment
+          in time either on Twitter or Discord. Website created with ❤️ by
+          @web3_degen with colorful summaries written by{" "}
+          <a href="https://twitter.com/web3_degen">@web3_degen</a>,{" "}
+          <a href="https://twitter.com/kindafungible">@kindafungible</a>, and{" "}
+          <a href="https://twitter.com/Beanthatgotaway">@Beanthatgotaway</a>.
+          <br></br>
         </p>
       </header>
       <body>
@@ -31,12 +35,12 @@ function App() {
       </body>
       <footer className="py-8">
         <a
-          className="text-sm underline"
+          className="text-sm"
           href="https://www.degods.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Visit DeGods.com
+          <button className="rounded-lg text-white bg-degods-purp px-5 py-3">Visit DeGods</button>
         </a>
       </footer>
     </div>
