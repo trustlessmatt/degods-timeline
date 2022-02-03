@@ -1,24 +1,30 @@
 // import Card from "./Card";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Chrono } from "react-chrono";
 import eventData from "./eventData";
 import DUST from "../Assets/DUST.jpg";
 
 const EventsList = () => {
-  // const [showDust, setShowDust] = useState(false);
+  const [myWidth, setMyWidth] = useState(window.innerWidth);
 
-  // const showDustHandler = () => {
-  //   setShowDust(true);
-  // };
+  const handleWindowSizeChange = () => {
+    setMyWidth(window.innerWidth);
+  }
+
+  useEffect(() => {
+    window.addEventListener('resize', handleWindowSizeChange);
+    return () => {
+        window.removeEventListener('resize', handleWindowSizeChange);
+    }
+  }, []);
 
   return (
     <div className="mx-auto max-w-screen-xl">
       <Chrono
         items={eventData}
-        mode="VERTICAL_ALTERNATING"
+        mode={`${(myWidth > 768) ? 'VERTICAL_ALTERNATING' : 'VERTICAL'}`}
         disableNavOnKey="true"
         hideControls="true"
-        cardHeight={250}
         // onScrollEnd={showDustHandler}
         theme={{
           primary: "#6100FF",
@@ -28,7 +34,6 @@ const EventsList = () => {
           titleColor: "black",
         }}
       />
-      {/* {showDust && ( */}
       <img src={DUST} className="mx-auto py-1 max-w-xs md:max-w-md"></img>
       <div>...and now, let us begin the $DUST experiment.</div>
       {/* )} */}
