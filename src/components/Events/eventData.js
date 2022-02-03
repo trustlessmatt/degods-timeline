@@ -7,7 +7,7 @@ const eventData = [
     media: {
       type: "IMAGE",
       source: {
-        url: "https://pbs.twimg.com/media/FKjDVw7WYAA8kBc?format=jpg&name=small",
+        url: "https://dc627.4shared.com/img/vDfjWUk2ea/s24/17ebd766500/degod_sun?async&rand=0.9252233278167601",
       },
     },
   },
@@ -112,7 +112,7 @@ const eventData = [
     media: {
       type: "IMAGE",
       source: {
-        url: "#",
+        url: "https://dc697.4shared.com/img/Lz-C1KFxiq/s24/17ebd9f6ce8/Screen_Shot_2022-02-02_at_1017?async&rand=0.5552964649382162",
       },
     },
   },
@@ -182,18 +182,6 @@ const eventData = [
     },
   },
   {
-    title: "10/17/2021",
-    cardTitle: "1% OF ALL DEGODS BURNED",
-    url: "https://discord.com/channels/886405884060786689/886405884060786692/899469505569370113",
-    cardDetailedText: "'NUFF SAID.",
-    media: {
-      type: "IMAGE",
-      source: {
-        url: "#",
-      },
-    },
-  },
-  {
     title: "10/20/2021",
     cardTitle: "ANNOUNCEMENT OF DE.XYZ",
     url: "https://discord.com/channels/886405884060786689/886405884060786692/900622484389384203",
@@ -222,26 +210,26 @@ const eventData = [
   {
     title: "11/03/2021",
     cardTitle: "AUSSIE JUMPS OUT OF A FUCKING PLANE DRESSED AS A DEGOD",
-    url: "https://discord.com/channels/886405884060786689/886405884060786692/905577419715543101",
+    url: "https://drive.google.com/file/d/1s8k7qIFXJRnHjVtKW-5cPoX680O5Z51-/view?usp=sharing",
     cardDetailedText:
       "I MEAN... what do you even say about this? At this point, the team had hired @aussienftguy on full time to manage the community and build on it with his balls of absolute titanium. This wasn't for a bounty, this wasn't for a whitelist (he is known for getting tattooed for a good WL), this was just about being the best in the game. This stunt picked up some more traction and recognition in the community. \"Damn people really do be jumping out of planes for this NFT eh?\"",
-    media: {
-      type: "IMAGE",
-      source: {
-        url: "https://pbs.twimg.com/media/FDzdbqxUcAgx7Yb?format=jpg&name=large",
+      media: {
+        type: "IMAGE",
+        source: {
+          url: "https://pbs.twimg.com/media/FDzdbqxUcAgx7Yb?format=jpg&name=large",
+        },
       },
-    },
   },
   {
     title: "01/31/2022",
     cardTitle: "DEGODS STAKING GOES LIVE, LOCKING UP $5MM IN DEGENERATE JPEGS FOR SOME STARDUST",
     url: "#",
     cardDetailedText:
-      "$DUST staking goes live and within 24 hours, 50% of the total supply of DeGods were staked. This amounts to more than $5 million TVL in 24 hours, probably nothing. People are chomping at the bit to trade their $DUST for a chance to mutate their DeGod into a DeadGod, and staking is the only way to get there at this point. That is, until the burning mechanic goes live. The best part? Frank surprised the community with fucking PHBT2: unstaking your DeGod will cost you 0.0333 SOL. The PHBT lives on!",
+      "DeGods staking for $DUST goes live and within 24 hours, 50% of the total supply of DeGods were staked. This amounts to more than $5 million TVL in 24 hours, probably nothing. People are chomping at the bit to trade their $DUST for a chance to mutate their DeGod into a DeadGod, and staking is the only way to get there at this point. That is, until the burning mechanic goes live. The best part? Frank surprised the community with fucking PHBT2: unstaking your DeGod will cost you 0.0333 SOL. The PHBT lives on!",
     media: {
       type: "IMAGE",
       source: {
-        url: "#",
+        url: "https://pbs.twimg.com/media/FKegLPdUUAMQtNe?format=jpg&name=4096x4096",
       },
     },
   },

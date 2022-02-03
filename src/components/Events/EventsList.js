@@ -18,6 +18,7 @@ const EventsList = () => {
         mode="VERTICAL_ALTERNATING"
         disableNavOnKey="true"
         hideControls="true"
+        cardHeight={250}
         // onScrollEnd={showDustHandler}
         theme={{
           primary: "#6100FF",
