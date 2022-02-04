@@ -238,18 +238,31 @@ const eventData = [
     },
   },
   {
-    title: "12/15/21",
-    cardTitle: "DEPALACE OPENS ITS SHINY GATES",
-    url: "#",
+    title: "11/23/21",
+    cardTitle: "A SUB FOR SUBS - MICKEY DEGODS OPENS ITS PRIVATE ROOMS",
+    url: "https://discord.gg/fJBgkpkrbP",
     cardDetailedText:
-      "",
+      "In an attempt to inspire more sub-communities to form within the larger DeGods Community, Mickey DeGods launched the sub-incubator, opening its doors and offering \"private rooms\" to other groups of DeGods. Immediately, some of the strongest groups banded together and joined the fun at Mickey DeGods: GooGods, the USSRDegods, DeGoats, Degods World Champs and MDeGods each congregated around the delicious food and perfectly average service of Mickey DeGods as they planned their next moves as new sub-communities.",
     media: {
       type: "IMAGE",
       source: {
-        url: "#",
+        url: "https://dc722.4shared.com/img/aLdW_p0jiq/s24/17ebe28bd40/Subs_3some?async&rand=0.3717887647643885",
       },
     },
   },
+  // {
+  //   title: "12/15/21",
+  //   cardTitle: "DEPALACE OPENS ITS SHINY GATES",
+  //   url: "https://www.depalace.xyz/login",
+  //   cardDetailedText:
+  //     "",
+  //   media: {
+  //     type: "IMAGE",
+  //     source: {
+  //       url: "#",
+  //     },
+  //   },
+  // },
   {
     title: "12/18/21",
     cardTitle: "FIRST DAO PROPOSAL",
@@ -280,7 +293,7 @@ const eventData = [
     title: "01/31/22",
     cardTitle:
       "DEGODS STAKING GOES LIVE, LOCKING UP $5MM IN DEGENERATE JPEGS FOR SOME STARDUST",
-    url: "#",
+    url: "https://twitter.com/DeGodsNFT/status/1486564518251487237?s=20&t=yfUxNbwKP504ETu28DIs7Q",
     cardDetailedText:
       "DeGods staking for $DUST goes live and within 24 hours, 50% of the total supply of DeGods were staked. This amounts to more than $5 million TVL in 24 hours, probably nothing. People are chomping at the bit to trade their $DUST for a chance to mutate their DeGod into a DeadGod, and staking is the only way to get there at this point. That is, until the burning mechanic goes live. The best part? Frank surprised the community with fucking PHBT2: unstaking your DeGod will cost you 0.0333 SOL. The PHBT lives on!",
     media: {

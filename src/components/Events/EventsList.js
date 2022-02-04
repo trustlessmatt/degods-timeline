@@ -1,4 +1,3 @@
-// import Card from "./Card";
 import { useEffect, useState } from "react";
 import { Chrono } from "react-chrono";
 import eventData from "./eventData";
@@ -19,7 +18,7 @@ const EventsList = () => {
   }, []);
 
   return (
-    <div className="mx-auto max-w-screen-xl">
+    <div className="mx-auto max-w-screen-xl snap-y">
       <Chrono
         items={eventData}
         mode={`${(myWidth > 768) ? 'VERTICAL_ALTERNATING' : 'VERTICAL'}`}
@@ -39,7 +38,6 @@ const EventsList = () => {
       <br></br>
       <div>...and now, let us begin the $DUST experiment.</div>
       <img src={DUST} className="mx-auto py-1 max-w-xs md:max-w-md" alt="DUST"></img>
-      {/* )} */}
     </div>
   );
 };
