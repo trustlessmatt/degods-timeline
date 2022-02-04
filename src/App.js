@@ -7,20 +7,20 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <header className="my-5 mx-10 text-sm xl:mx-96 md:mx-60 sm:mx-30">
+      <header className="my-5 mx-10 xl:mx-96 md:mx-60 sm:mx-30">
         <div className="flex justify-center">
           <img src={logo} className="App-logo" alt="logo" />
         </div>
-        <p className="py-5 text-3xl font-bold">
+        <p className="py-5 text-4xl font-bold">
           The DeGods Experiment Timeline<br></br>
         </p>
         {/* spinning icon was here */}
-        <p className="italic py-3">
+        <p className="italic py-4 text-md">
           Formed from the dust of stars in the molten core of Mount Solympus,
           the DeGods arose... In time, all shall burn; for we are dust and to
           $DUST we shall return.
         </p>
-        <p className="">
+        <p className="text-sm py-3">
           Each event below contains a clickable link archiving a DeGods moment
           in time either on Twitter or Discord. Website created with ❤️ by
           @web3_degen with colorful summaries written by{" "}

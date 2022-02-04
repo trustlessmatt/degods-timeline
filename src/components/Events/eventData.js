@@ -39,7 +39,7 @@ const eventData = [
     },
   },
   {
-    title: "09/22/2021",
+    title: "09/22/21",
     cardTitle: "THE PRESALE GAUNTLET (PROMISE, HEARTBREAK, AND SLEEPLESSNESS)",
     url: "https://discord.com/channels/886405884060786689/886405884060786692/890263510070730782",
     cardDetailedText:
@@ -52,7 +52,7 @@ const eventData = [
     },
   },
   {
-    title: "09/25/2021",
+    title: "09/25/21",
     cardTitle: "FIRST PREVIEW OF THE DEGODS CUSTOM MARKETPLACE",
     url: "https://discord.com/channels/886405884060786689/886405884060786692/891502131494936646",
     cardDetailedText:
@@ -65,7 +65,7 @@ const eventData = [
     },
   },
   {
-    title: "09/25/2021",
+    title: "09/25/21",
     cardTitle: "FIRST DEGOD BURNED",
     url: "https://twitter.com/DeGodsNFT/status/1441871746664001542",
     cardDetailedText:
@@ -78,7 +78,7 @@ const eventData = [
     },
   },
   {
-    title: "09/26/2021",
+    title: "09/26/21",
     cardTitle: "AUSSIE EATS 100 NUGS ON LIVESTREAM AND BECOMES LEGEND",
     url: "https://twitter.com/frankdegods/status/1442332223470850054?s=20&t=UVMnh-xgiD3MPUShBfKnCw",
     cardDetailedText:
@@ -91,7 +91,7 @@ const eventData = [
     },
   },
   {
-    title: "10/02/2021",
+    title: "10/02/21",
     cardTitle: "SOLYMPUS AND HOW THE CEO OF SOLANA LABS MADE DEGODS HIS PFP",
     url: "https://twitter.com/aeyakovenko/status/1444342055967223813",
     cardDetailedText:
@@ -104,7 +104,7 @@ const eventData = [
     },
   },
   {
-    title: "10/07/2021",
+    title: "10/07/21",
     cardTitle: "ROADMAP RELEASED",
     url: "https://roadmap.degods.com",
     cardDetailedText:
@@ -117,7 +117,7 @@ const eventData = [
     },
   },
   {
-    title: "10/08/2021",
+    title: "10/08/21",
     cardTitle: "A PERFECT MINT FOR A DEGOD",
     url: "https://discord.com/channels/886405884060786689/886405884060786692/896161557271154718",
     cardDetailedText:
@@ -130,7 +130,7 @@ const eventData = [
     },
   },
   {
-    title: "10/08/2021",
+    title: "10/08/21",
     cardTitle: '"THE MARKETPLACE WILL BE LIVE BEFORE THE END OF THE DAY"',
     url: "https://discord.com/channels/886405884060786689/886405884060786692/896163865895764028",
     cardDetailedText:
@@ -143,7 +143,7 @@ const eventData = [
     },
   },
   {
-    title: "10/09/2021",
+    title: "10/09/21",
     cardTitle: "BURN WALLET REACHES 950 SOL, MOSTLY ON SALES OF FAKE DEGODS",
     url: "https://discord.com/channels/886405884060786689/886405884060786692/896563833374650388",
     cardDetailedText:
@@ -156,7 +156,7 @@ const eventData = [
     },
   },
   {
-    title: "10/10 - 10/14/2021",
+    title: "10/10 - 10/14/21",
     cardTitle: "THE MARKETPLACE LAUNCHES AND THEN BECOMES A PRISON, #FREEMANOJ",
     url: "https://discord.com/channels/886405884060786689/886405884060786692/896890425288302595",
     cardDetailedText:
@@ -171,7 +171,7 @@ const eventData = [
     },
   },
   {
-    title: "10/15/2021",
+    title: "10/15/21",
     cardTitle: "PAPER HAND BITCH TAX FULLY DEPLOYED",
     url: "https://discord.com/channels/886405884060786689/886405884060786692/898689805163069460",
     cardDetailedText:
@@ -184,7 +184,7 @@ const eventData = [
     },
   },
   {
-    title: "10/20/2021",
+    title: "10/20/21",
     cardTitle: "ANNOUNCEMENT OF DE.XYZ",
     url: "https://discord.com/channels/886405884060786689/886405884060786692/900622484389384203",
     cardDetailedText:
@@ -197,7 +197,7 @@ const eventData = [
     },
   },
   {
-    title: "10/23/2021",
+    title: "10/23/21",
     cardTitle: "MICKEY DEGODS - THE ORIGINAL DEGODS SUBCOMMUNITY",
     url: "http://www.mickeydegods.com/",
     cardDetailedText:
@@ -210,7 +210,7 @@ const eventData = [
     },
   },
   {
-    title: "10/28/2021",
+    title: "10/28/21",
     cardTitle: "ISLAND BOYS X DEGODS - AN ABSOLUTE BANGER",
     url: "https://twitter.com/DeGodsNFT/status/1453843873399148549?s=20&t=n950oPIAaovsPhCHtIWbgA",
     cardDetailedText:
@@ -225,7 +225,7 @@ const eventData = [
     },
   },
   {
-    title: "11/03/2021",
+    title: "11/03/21",
     cardTitle: "AUSSIE JUMPS OUT OF A FUCKING PLANE DRESSED AS A DEGOD",
     url: "https://drive.google.com/file/d/1s8k7qIFXJRnHjVtKW-5cPoX680O5Z51-/view?usp=sharing",
     cardDetailedText:
@@ -238,7 +238,7 @@ const eventData = [
     },
   },
   {
-    title: "12/15/2021",
+    title: "12/15/21",
     cardTitle: "DEPALACE OPENS ITS SHINY GATES",
     url: "#",
     cardDetailedText:
@@ -251,7 +251,7 @@ const eventData = [
     },
   },
   {
-    title: "12/18/2021",
+    title: "12/18/21",
     cardTitle: "FIRST DAO PROPOSAL",
     url: "#",
     cardDetailedText:
@@ -264,7 +264,7 @@ const eventData = [
     },
   },
   {
-    title: "01/01/2022",
+    title: "01/01/22",
     cardTitle: "ANNOUNCEMENT OF $DUST PROTOCOL",
     url: "https://twitter.com/DeGodsNFT/status/1477367334150950912?s=20&t=itUHlkzLJ-fdYtEYYNSavQ",
     cardDetailedText:
@@ -277,7 +277,7 @@ const eventData = [
     },
   },
   {
-    title: "01/31/2022",
+    title: "01/31/22",
     cardTitle:
       "DEGODS STAKING GOES LIVE, LOCKING UP $5MM IN DEGENERATE JPEGS FOR SOME STARDUST",
     url: "#",
