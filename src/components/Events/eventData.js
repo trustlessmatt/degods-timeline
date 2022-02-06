@@ -2,6 +2,7 @@ const eventData = [
   {
     title: "March 2021",
     cardTitle: "THE DEGODS ARE BORN",
+    url: "https://twitter.com/DeGodsNFT",
     cardDetailedText:
       "The creation of its official twitter account @DeGodsNFT marked the birth of an idea; an experiment in deflationary NFTs using game theory that would take the Solana NFT space by storm. The landscape truly was not prepared for what DeGods would bring. During this time, the team was created and the planning phase began.",
     media: {
@@ -36,6 +37,21 @@ const eventData = [
       source: {
         url: "https://pbs.twimg.com/media/E_oGD61UYAAKqb5?format=jpg&name=large",
       },
+    },
+  },
+  {
+    title: "09/19/2021",
+    cardTitle: "THE TWITTER HYPE BEGINS",
+    url: "https://twitter.com/DeGodsNFT/status/1439739198064365568",
+    cardDetailedText:
+      "Putting the Solana NFT community on notice, DeGods dropped their first hype video created by the community; a statement letting the world know DeGods would be built different: \"There's 2 ways to grow an NFT Community: 1. Paying for bots & influencers 2. Organic community driven growth. More #SolanaNFTs should choose the 2nd one. It's way more fun.\" - @DeGodsNFT",
+    media: {
+      source: {
+        url: "https://www.youtube.com/embed/nylc2ssUfUk",
+        type: "mp4",
+      },
+      type: "VIDEO",
+      name: "DeGods Hype Vid",
     },
   },
   {
@@ -84,10 +100,12 @@ const eventData = [
     cardDetailedText:
       "For reasons unknown to man or science, @aussienftguy talked about DeGods for an hour on Twitch while eating 100 lukewarm chicken nuggets. He had already cemented himself in the DeGods community as the guy who would go to lengths far greater than most to prove himself to the Core Team, and this was just icing on the cake (or sauce on the nugs? sorry) for all of us. This MFer became an instant classic and we love him to death.",
     media: {
-      type: "IMAGE",
       source: {
-        url: "https://pbs.twimg.com/media/FKZIAQDXsAITpiB?format=png&name=small",
+        url: "https://www.youtube.com/embed/o3sXAXKDIiE",
+        type: "mp4",
       },
+      type: "VIDEO",
+      name: "Aussie Nugs",
     },
   },
   {
@@ -217,7 +235,7 @@ const eventData = [
       "Just when everything was starting to calm down and look in control, DeGods dropped the #1 remix of 2021 featuring Island Boys. The DeGods x Island Boys collab almost crashed Twitter. You either love Island Boys in which case it was an incredible BANGER or you hated Island Boys and you retweeted it like a really good hate fuck. Things get really weird in crypto, eh?",
     media: {
       source: {
-        url: "https://www.4shared.com/web/embed/file/7NrJ_mXziq",
+        url: "https://www.youtube.com/embed/FToy4uVAMgM",
         type: "mp4",
       },
       type: "VIDEO",
@@ -231,10 +249,12 @@ const eventData = [
     cardDetailedText:
       "I MEAN... what do you even say about this? At this point, the team had hired @aussienftguy on full time to manage the community and build on it with his balls of absolute titanium. This wasn't for a bounty, this wasn't for a whitelist (he is known for getting tattooed for a good WL), this was just about being the best in the game. This stunt picked up some more traction and recognition in the community. \"Damn people really do be jumping out of planes for this NFT eh?\"",
     media: {
-      type: "IMAGE",
       source: {
-        url: "https://pbs.twimg.com/media/FDzdbqxUcAgx7Yb?format=jpg&name=large",
+        url: "https://www.youtube.com/embed/ywO3RLUOjoc",
+        type: "mp4",
       },
+      type: "VIDEO",
+      name: "Aussie Skydiving",
     },
   },
   {
@@ -242,7 +262,7 @@ const eventData = [
     cardTitle: "A SUB FOR SUBS - MICKEY DEGODS OPENS ITS PRIVATE ROOMS",
     url: "https://discord.gg/fJBgkpkrbP",
     cardDetailedText:
-      "In an attempt to inspire more sub-communities to form within the larger DeGods Community, Mickey DeGods launched the sub-incubator, opening its doors and offering \"private rooms\" to other groups of DeGods. Immediately, some of the strongest groups banded together and joined the fun at Mickey DeGods: GooGods, the USSRDegods, DeGoats, Degods World Champs and MDeGods each congregated around the delicious food and perfectly average service of Mickey DeGods as they planned their next moves as new sub-communities.",
+      'In an attempt to inspire more sub-communities to form within the larger DeGods Community, Mickey DeGods launched the sub-incubator, opening its doors and offering "private rooms" to other groups of DeGods. Immediately, some of the strongest groups banded together and joined the fun at Mickey DeGods: GooGods, the USSRDegods, DeGoats, Degods World Champs and MDeGods each congregated around the delicious food and perfectly average service of Mickey DeGods as they planned their next moves as new sub-communities.',
     media: {
       type: "IMAGE",
       source: {
@@ -268,11 +288,11 @@ const eventData = [
     cardTitle: "FIRST DAO PROPOSAL",
     url: "#",
     cardDetailedText:
-      "",
+      '"PHBT: Moving forward, the Paper Hands Bitch Tax Threshold will stop moving up by 0.33 every week. Instead, it will stay fixed at its current amount until the community votes to change it. If the community votes to change it, it will be updated." This proposal\'s quorum was reached and it was passed 93% to 7%.',
     media: {
       type: "IMAGE",
       source: {
-        url: "#",
+        url: "https://cdn.discordapp.com/attachments/903037036951400468/921903197793157181/unknown.png",
       },
     },
   },
