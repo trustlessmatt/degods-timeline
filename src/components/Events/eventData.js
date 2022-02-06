@@ -13,7 +13,7 @@ const eventData = [
     },
   },
   {
-    title: "09/16/2021",
+    title: "09/16/21",
     cardTitle:
       "PAPERHAND BITCH TAX REVEALED IN FIRST TWEET & DISCORD ANNOUNCEMENT",
     url: "https://twitter.com/DeGodsNFT/status/1438671756001099781?s=20&t=oz97jzW2FurwoVooRUd5Eg",
@@ -27,7 +27,7 @@ const eventData = [
     },
   },
   {
-    title: "09/18/2021",
+    title: "09/18/21",
     cardTitle: "FIRST BOUNTIES LAUNCHED",
     url: "https://discord.com/channels/886405884060786689/886405884060786692/889027263868317696",
     cardDetailedText:
@@ -40,7 +40,7 @@ const eventData = [
     },
   },
   {
-    title: "09/19/2021",
+    title: "09/19/21",
     cardTitle: "THE TWITTER HYPE BEGINS",
     url: "https://twitter.com/DeGodsNFT/status/1439739198064365568",
     cardDetailedText:
@@ -286,7 +286,7 @@ const eventData = [
   {
     title: "12/18/21",
     cardTitle: "FIRST DAO PROPOSAL",
-    url: "#",
+    // no current URL
     cardDetailedText:
       '"PHBT: Moving forward, the Paper Hands Bitch Tax Threshold will stop moving up by 0.33 every week. Instead, it will stay fixed at its current amount until the community votes to change it. If the community votes to change it, it will be updated." This proposal\'s quorum was reached and it was passed 93% to 7%.',
     media: {
@@ -310,9 +310,35 @@ const eventData = [
     },
   },
   {
+    title: "01/08/22",
+    cardTitle: "$DUST TOKENOMICS ROUGH DRAFT RELEASED",
+    url: "https://twitter.com/DeGodsNFT/status/1479749649434955776?s=20&t=J14QoW-GwdeIXpdG0ehmQQ",
+    cardDetailedText:
+      "The DeGods Twitter account drops a hot post on the tokenomics of $DUST covering staking functionality, rewards structures, and initially, the potential to burn rugged NFTs for 1 $DUST each. Frank and the Core Team emphasize that $DUST will be a powerful token based on true economic utility-based value. Interestingly, the supply of $DUST starts at zero, and can only be created by staking or burning. Now, the DeGods economy exists in this really experimental state where people are incentivized to hold or burn their DeGods, increasing the intrinsic value of a DeGod substantially over time (deflation of NFTs, inflation of $DUST will make for an interesting economic model).",
+    media: {
+      type: "IMAGE",
+      source: {
+        url: "https://pbs.twimg.com/media/FIkgcuCXIAMu1LM?format=png&name=medium",
+      },
+    },
+  },
+  {
+    title: "01/26/22",
+    cardTitle: "OMG! DEADGODS ANNOUNCED IN ALL THEIR GLORY",
+    url: "https://twitter.com/DeGodsNFT/status/1486564518251487237?s=20&t=J14QoW-GwdeIXpdG0ehmQQ",
+    cardDetailedText:
+      "Part of the $DUST protocol now involves minting a Vial of StarDust for 1000 $DUST - feed it to your DeGod to create a DeadGod. The genius part of this next chapter for DeGods is: the collection is still deflationary, and these DeadGods are not a new collection! From the DeGods Twitter: \"Your DeadGod will be added to the metadata of your original DeGod. It's the same NFT, but with 2 versions. You will be able to switch the image to either version at any time. They'll both have the same rarity. If you ever sell your DeGod, the new owner will get both versions.\"",
+    media: {
+      type: "IMAGE",
+      source: {
+        url: "https://pbs.twimg.com/media/FKFVMCQUcAQvdGj?format=jpg&name=4096x4096",
+      },
+    },
+  },
+  {
     title: "01/31/22",
     cardTitle:
-      "DEGODS STAKING GOES LIVE, LOCKING UP $5MM IN DEGENERATE JPEGS FOR SOME STARDUST",
+      "DEGODS STAKING GOES LIVE, LOCKING UP $5.5MM IN DEGENERATE JPEGS FOR SOME STARDUST",
     url: "https://twitter.com/DeGodsNFT/status/1486564518251487237?s=20&t=yfUxNbwKP504ETu28DIs7Q",
     cardDetailedText:
       "DeGods staking for $DUST goes live and within 24 hours, 50% of the total supply of DeGods were staked. This amounts to more than $5 million TVL in 24 hours, probably nothing. People are chomping at the bit to trade their $DUST for a chance to mutate their DeGod into a DeadGod, and staking is the only way to get there at this point. That is, until the burning mechanic goes live. The best part? Frank surprised the community with fucking PHBT2: unstaking your DeGod will cost you 0.0333 SOL. The PHBT lives on!",

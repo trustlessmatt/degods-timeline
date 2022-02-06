@@ -12,7 +12,7 @@ function App() {
           <img src={logo} className="App-logo" alt="logo" />
         </div>
         <p className="py-5 text-4xl font-bold">
-          The DeGods Experiment Timeline<br></br>
+          DeHistory: The DeGods Experiment Timeline<br></br>
         </p>
         {/* spinning icon was here */}
         <p className="italic py-4 text-md">
